@@ -1,4 +1,4 @@
-package java_01.section01;
+package java01.section01;
 
 public class HelloJava2 {
     public static void main(String[] args) {
